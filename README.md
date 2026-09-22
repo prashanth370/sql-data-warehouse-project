@@ -109,9 +109,10 @@ data-warehouse-project/
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth370/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-one-kappa-26.vercel.app/)
-[![Resume](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://drive.google.com/file/d/1-8v_GodT9K0YgtUXxiPMiUKqbSXKpA8c/view)
-[![Twitter](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://x.com/Prashanth062)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-one-kappa-26.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://drive.google.com/file/d/1-8v_GodT9K0YgtUXxiPMiUKqbSXKpA8c/view)
+[![Twitter](https://img.shields.io/badge/Twitter-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://x.com/Prashanth062)
+
 ---
 
 ## 🛡️ License
@@ -125,6 +126,6 @@ Hi there! I'm **Banoth Prashanth**, a passionate BTech student diving into the w
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth370/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-one-kappa-26.vercel.app/)
-[![Resume](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://drive.google.com/file/d/1-8v_GodT9K0YgtUXxiPMiUKqbSXKpA8c/view)
-[![Twitter](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://x.com/Prashanth062)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-one-kappa-26.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://drive.google.com/file/d/1-8v_GodT9K0YgtUXxiPMiUKqbSXKpA8c/view)
+[![Twitter](https://img.shields.io/badge/Twitter-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://x.com/Prashanth062)
